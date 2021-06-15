@@ -1,0 +1,1 @@
+shell addresses presents commands that print and automate the configuration management in shell where we can learn redirection commands
