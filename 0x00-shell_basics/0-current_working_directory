@@ -1,0 +1,10 @@
+#! / bin / bash
+ 
+echo $ 0
+ 
+ruta_completa = $ ( ruta real $ 0 )
+echo $ ruta_completa
+ 
+ruta_dir = $( nombre_directorio $ ruta_completa )
+echo $ dir_path
+
