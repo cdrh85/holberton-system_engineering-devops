@@ -1,2 +1,2 @@
-#!/bin/bash # Mi primer script 
-echo "¡Hola mundo!"
+#!/bin/bash
+cd ..
